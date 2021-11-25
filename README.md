@@ -9,7 +9,7 @@ I am passionate and interested in Full Stack Web Development.</h3>
 To obtain a creative and challenging position in an organization that gives me an opportunity for self improvement and leadership, while contributing to the symbolic growth of the organization with my technical, innovative and creative skills.
   
 <br>As Nelson Mandela said, "Education is the most powerful weapon which you can use to change the world". I also believe in learning new things, grab knowledge, to have faith in yourself that YES, you can do then only you will do.
-Keen Learner. Wanna be a Full Stack Web Developer. Looking for further opportunities...</h4>
+Keen Learner. Really enthusiastic be a Full Stack Web Developer and eagerly looking forward for further opportunities to enchance my career.</h4>
 
 
 - 🔭 Currently working as a Web Developer Intern at <a href="https://shurjomukhi.com.bd/">ShurjoMukhi Limited.
