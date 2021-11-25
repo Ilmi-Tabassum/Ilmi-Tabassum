@@ -20,7 +20,7 @@ Keen Learner. Really enthusiastic be a Full Stack Web Developer and eagerly look
   
  - 💬 Ask me about **HTML, CSS, JavaScript, Python, Operating Systems, Java  Data structures and Algorithms**
   
- -👨‍💻 All of my projects are available at https://ilmi-tabassum.github.io/portfolio/
+ - 👨‍💻 All of my projects are available at https://ilmi-tabassum.github.io/portfolio/
 
 
 <p align="center">
