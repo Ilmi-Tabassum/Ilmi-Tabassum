@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, This is <a href="https://ilmi-tabassum.github.io/portfolio/">Ilmi Tabassum</h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, This is <a href="https://ilmi-tabassum.github.io/portfolio/">Ilmi Tabassum</h1>
 <img src="web.jpg" align="center" alt="image">
 <h3 align="center">An enthusiastic fresher with highly motivated and leadership skills having bachelors of engineering degree in Computer Science & Engineering and Completed my major in Computer Science (October'21) from <a href="https://www.bracu.ac.bd/">BRAC University</a>.</br>
 
