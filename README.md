@@ -1,8 +1,25 @@
-### Hi, This is <a href="https://ilmi-tabassum.github.io/portfolio/">Ilmi Tabassum</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center">Hi 👋, This is <a href="https://ilmi-tabassum.github.io/portfolio/">Ilmi Tabassum</h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img src="Web dev.jpeg" align="center" alt="image">
+<h3 align="center">An enthusiastic fresher with highly motivated and leadership skills having bachelors of engineering degree in Computer Science & Engineering and Completed my major in Computer Science (October'21) from <a href="https://www.bracu.ac.bd/">BRAC University</a>.</br>
+
+Highly motivated and eager to learn new things. Always willing to innovate the new things which can improve the existing technology.
+I am passionate and interested in Full Stack Web Development.</h3>
+
+<h4><b>My Career Objective:<b>
+To obtain a creative and challenging position in an organization that gives me an opportunity for self improvement and leadership, while contributing to the symbolic growth of the organization with my technical, innovative and creative skills.
+As Nelson Mandela said, "Education is the most powerful weapon which you can use to change the world". I also believe in learning new things, grab knowledge, to have faith in yourself that YES, you can do then only you will do.
+Keen Learner. Wanna be a Full Stack Web Developer. Looking for further opportunities...</h4>
 
 
-<p><em>Currently working as a Web Developer Intern at <a href="https://shurjomukhi.com.bd/">ShurjoMukhi Limited</a>. Completed my major in Computer Science (October'21) from <a href="https://www.bracu.ac.bd/">BRAC University</a>.</br>
-</em></p>
+- 🔭 <p>Currently working as a Web Developer Intern at <a href="https://shurjomukhi.com.bd/">ShurjoMukhi Limited</p>.
+  
+- 🌱 I’m currently learning **Nodejs, Laravel**
+
+- 👯 I’m looking to collaborate in **Back-End Web Development**
+  
+  
+- 💬 Ask me about **HTML, CSS, JavaScript, Python, Operating Systems, Java  Data structures and Algorithms**
+
 
 <p align="center">
    <table>
@@ -31,6 +48,8 @@
 
 <hr>
 <h3><img height="20px" src="https://img.shields.io/badge/Language-467870"/></h3>
+   
+   
 
 <span><img src="https://img.shields.io/badge/-Java-black?style=flat-square&amp;logo=Java" alt="JAVA"/></span>
 <span><img src="https://img.shields.io/badge/-Python-black?style=flat-square&amp;logo=Python" alt="Python"/></span>
