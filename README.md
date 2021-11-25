@@ -12,8 +12,7 @@
       </tr>
       <tr>
        <td><img alt="ilmi-tabassum.github.io:: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Ilmi-Tabassum&show_icons=true&theme=dark"> </td>
-       <td><img alt="ilmi-tabassum.github.io :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilmi-Tabassum
-&langs_count=10&theme=tokyonight&layout=compact&hide=html"> </td>
+       <td><img alt="ilmi-tabassum.github.io :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilmi-Tabassum&langs_count=10&theme=tokyonight&layout=compact&hide=html"> </td>
       </tr>
    </table>
 </p>
