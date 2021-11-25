@@ -11,14 +11,15 @@ As Nelson Mandela said, "Education is the most powerful weapon which you can use
 Keen Learner. Wanna be a Full Stack Web Developer. Looking for further opportunities...</h4>
 
 
-- 🔭 <p>Currently working as a Web Developer Intern at <a href="https://shurjomukhi.com.bd/">ShurjoMukhi Limited</p>.
+- 🔭 Currently working as a Web Developer Intern at <a href="https://shurjomukhi.com.bd/">ShurjoMukhi Limited.
   
 - 🌱 I’m currently learning **Nodejs, Laravel**
 
 - 👯 I’m looking to collaborate in **Back-End Web Development**
   
+ - 💬 Ask me about **HTML, CSS, JavaScript, Python, Operating Systems, Java  Data structures and Algorithms**
   
-- 💬 Ask me about **HTML, CSS, JavaScript, Python, Operating Systems, Java  Data structures and Algorithms**
+ -👨‍💻 All of my projects are available at https://ilmi-tabassum.github.io/portfolio/
 
 
 <p align="center">
