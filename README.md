@@ -12,7 +12,7 @@ To obtain a creative and challenging position in an organization that gives me a
 Keen Learner. Really enthusiastic be a Full Stack Web Developer and eagerly looking forward for further opportunities to enchance my career.</h4>
 
 
-- 🔭 Currently working as a Web Developer Intern at <a href="https://shurjomukhi.com.bd/">ShurjoMukhi Limited.
+- 🔭 Currently working as a Web Developer Intern at <a href="https://shurjomukhi.com.bd/">ShurjoMukhi Limited.</a>
   
 - 🌱 I’m currently learning **Nodejs, Laravel**
 
