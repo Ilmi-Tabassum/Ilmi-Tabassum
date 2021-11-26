@@ -50,6 +50,7 @@ I am passionate and interested in Full Stack Web Development.</h3>
 <span><img src="https://img.shields.io/badge/-SQL-black?style=flat-square&amp;logo=SQL" alt="SQL"/></span>
 <span><img src="https://img.shields.io/badge/-Sass-black?style=flat-square&amp;logo=Sass" alt="Sass"/></span>
 <span><img src="https://img.shields.io/badge/-PHP-black?style=flat-square&amp;logo=PHP" alt="PHP"/></span>
+<span><img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&amp;logo=JavaScript" alt="JavaScript"/></span>
 <hr>
 <h3><img height="20px" src="https://img.shields.io/badge/Tools-6c598f"/></h3>
 <span><img src="https://img.shields.io/badge/-Docker-black?style=flat-square&amp;logo=Docker" alt="Docker"/></span>
