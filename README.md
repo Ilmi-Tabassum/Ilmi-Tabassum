@@ -38,6 +38,7 @@ I am passionate and interested in Full Stack Web Development.</h3>
 <h3><img height="20px" src="https://img.shields.io/badge/Framework-695b55"/></h3>
 <span><img src="https://img.shields.io/badge/-Express-black?style=flat-square&amp;logo=Express" alt="Express"/></span>
 <span><img src="https://img.shields.io/badge/-Laravel-black?style=flat-square&amp;logo=Laravel" alt="Laravel"/></span>
+<span><img src="https://img.shields.io/badge/-MachineLearning-black?style=flat-square&amp;logo=Machine Learning" alt=" Machine Learning "/></span>
 
 
 <hr>
