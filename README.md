@@ -1,16 +1,8 @@
 <h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">I am <a href" https://ilmi-tabassum.github.io/portfolio/">  Ilmi Tabassum</a>
-<img src="web.jpg" align="center" alt="image">
-<h3 align="center">An enthusiastic fresher with highly motivated and leadership skills having bachelors of engineering degree in Computer Science & Engineering and Completed my major in Computer Science (October'21) from <a href="https://www.bracu.ac.bd/">BRAC University</a>.</br>
+<h3 align="center">An enthusiastic fresher being highly motivated and completed my bachelors of science degree in Computer Science (October'21) from <a href="https://www.bracu.ac.bd/">BRAC University</a>.</br>
 
-Highly motivated and eager to learn new things. Always willing to innovate the new things which can improve the existing technology.
+I am highly motivated and eager to learn new things. Always willing to innovate the new things which can improve the existing technology.
 I am passionate and interested in Full Stack Web Development.</h3>
-
-<h4><b>My Career Objective:<b>
-To obtain a creative and challenging position in an organization that gives me an opportunity for self improvement and leadership, while contributing to the symbolic growth of the organization with my technical, innovative and creative skills.
-  
-<br>As Nelson Mandela said, "Education is the most powerful weapon which you can use to change the world". I also believe in learning new things, grab knowledge, to have faith in yourself that YES, you can do then only you will do.
-Keen Learner. Really enthusiastic be a Full Stack Web Developer and eagerly looking forward for further opportunities to enchance my career.</h4>
-
 
 - 🔭 Currently working as a Web Developer Intern at <a href="https://shurjomukhi.com.bd/">ShurjoMukhi Limited.</a>
   
