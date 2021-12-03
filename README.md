@@ -6,7 +6,7 @@ I am passionate and interested in Full Stack Web Development.</h3>
 
 - 🔭 Currently working as a Web Developer Intern at <a href="https://shurjomukhi.com.bd/">ShurjoMukhi Limited.</a>
   
-- 🌱 I’m currently learning **Nodejs, Laravel**
+- 🌱 I’m currently learning **Nodejs,Vuejs and Laravel**
 
 - 👯 I’m looking to collaborate in **Back-End Web Development**
   
