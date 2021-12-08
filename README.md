@@ -4,7 +4,7 @@
 I am highly motivated and eager to learn new things. Always willing to innovate the new things which can improve the existing technology.
 I am passionate and interested in Full Stack Web Development.</h3>
 
-- 🔭 Currently working as a Web Developer Intern at <a href="https://shurjomukhi.com.bd/">ShurjoMukhi Limited.</a>
+
   
 - 🌱 I’m currently learning **Nodejs,Vuejs and Laravel**
 
